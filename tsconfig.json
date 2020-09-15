@@ -6,5 +6,18 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/ui-santander/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/ui-santander/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/ui-app/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/ui-app/tsconfig.spec.json"
+    }
+]
 }
